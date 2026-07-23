@@ -13,13 +13,18 @@ This repository contains my MSc Artificial Intelligence dissertation project foc
 - Matplotlib
 - Jupyter Notebook
 
-## Dataset
+# Dataset Information
 
-This project was developed using a private genotype and phenotype dataset containing GLP-1 receptor genetic variants and associated clinical information.
+This project was developed using a private research dataset consisting of:
 
-The dataset cannot be shared publicly due to privacy, ethical, and data access restrictions.
+- Genotype data (PLINK format)
+- Phenotype records
+- Clinical variables
+- Covariates
 
-Only the project methodology and code (where permitted) are included in this repository.
+The data cannot be redistributed due to licensing, privacy, and ethical restrictions.
+
+To reproduce this work, users should substitute their own genotype and phenotype dataset with the same structure and update the data paths in the preprocessing scripts.
 
 ## Repository Contents
 
